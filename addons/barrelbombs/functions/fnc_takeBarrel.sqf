@@ -6,6 +6,7 @@ TRACE_2("Params",_dispenserObject,_barrelProperties);
 _barrelProperties params ["_barrelModel", "_explosiveType", "_fuseDuration", "_clusterAmount"];
 
 private _barrelObject = _barrelModel createVehicle [0,0,0];
+_barrelObject allowDamage false;
 [_barrelObject] call FUNC(addDetailsToBarrel);
 
 private _dispenserPosition = getPosATL _dispenserObject;

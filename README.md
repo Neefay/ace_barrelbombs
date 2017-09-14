@@ -8,7 +8,7 @@
   An unofficial <a href="https://github.com/acemod/ACE3"><img src="https://puu.sh/xzxxB/1f04534da3.png" alt="ACE 3"></a> extension.
   <br/><br/>
   <a href="https://github.com/Neefay/BromA-A3-Framework-Mark3/commits/master">
-    <img src="https://img.shields.io/badge/build-1.0-blue.svg?style=flat-square" alt="Current version">
+    <img src="https://img.shields.io/badge/build-1.0.1-blue.svg?style=flat-square" alt="Current version">
   </a>
   <img src="https://img.shields.io/badge/stable-yes-green.svg?style=flat-square" alt="Stable">
 </p>
