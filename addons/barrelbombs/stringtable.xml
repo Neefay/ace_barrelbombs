@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACE">
+    <Package name="BarrelBombs">
+        <Key ID="STR_ACE_BarrelBombs_Menu_PrepBarrel_currentCluster">
+            <English>cluster munitions</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Value_Payload_1">
+            <English>Maximum</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Value_Payload_2">
+            <English>Major</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Value_Payload_3">
+            <English>Moderate</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Value_Payload_4">
+            <English>Minor</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Value_Fuse_1">
+            <English>Impact detonation</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Value_Fuse_2">
+            <English>Air-burst cluster</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Action_InspectBarrel">
+            <English>Inspect</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Action_LoadForDropping">
+            <English>Prime and load</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Hint_BarrelLoaded">
+            <English>Barrel loaded.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Hint_VehicleFull">
+            <English>This vehicle cannot fit any more barrels,</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Hint_NoVehicle">
+            <English>Could not find a vehicle to load.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Progress_LoadingIntoVehicle">
+            <English>Loading barrel into vehicle</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Hint_LabelReadsAs">
+            <English>The label reads</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Materials_Plural_Clusters">
+            <English>clusters</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Materials_Long_Clusters">
+            <English>cluster munitions</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Time_Short_Seconds">
+            <English>sec.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Materials_DrumBarrel">
+            <English>Drum Barrel</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Hint_BombMakingFinished">
+            <English>Barrel Bomb completed.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Hint_BombMakingCancelled">
+            <English>Barrel Bomb cancelled.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Hint_InvalidDispenser">
+            <English>Invalid dispenser.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Progress_MakingBarrelBomb">
+            <English>Preparing Barrel Bomb</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Time_Long_Plural_Seconds">
+            <English>seconds</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_FuseMethod">
+            <English>Fuse method</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_PayloadStrength">
+            <English>Payload strength</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_FuseTimer">
+            <English>Fuse timer</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_ClusterAmount">
+            <English>Cluster amount</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_PrepareBarrel">
+            <English>Prepare barrel</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_DispenserMaterials">
+            <English>Dispenser materials</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_ExplosivesLeft">
+            <English>Explosives left</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_ClustersLeft">
+            <English>Clusters left</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_Confirm">
+            <English>CONFIRM</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_Confirm_Tooltip">
+            <English>Prepare a barrel based on the current settings.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_DispenserExplosives_Tooltip">
+            <English>How many explosives are left in this dispenser.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_DispenserClusters_Tooltip">
+            <English>How many cluster rounds are left in this dispenser.</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_DropBarrel_LoadedBarrels">
+            <English>Loaded Barrels</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_DropBarrel_DropSelected">
+            <English>DROP SELECTED</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Dialog_DropBarrel_CargoLimit">
+            <English>Cargo limit</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_String_Warning">
+            <English>Warning</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_String_HandleWithCaution">
+            <English>Handle with caution</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_String_Payload">
+            <English>Payload</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_String_Fuse">
+            <English>Fuse</English>
+        </Key>
+    </Package>
+</Project>

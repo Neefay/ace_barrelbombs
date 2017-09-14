@@ -1,0 +1,49 @@
+
+// ============= DEFINE GENERIC VALUES ================
+
+// CLASSNAMES -------------
+
+#define CLASSNAME_CLUSTEREXPLOSION QUOTE(Bo_GBU12_LGB)
+#define CLASSNAME_CLUSTERDETONATOR QUOTE(Bomb)
+#define CLASSNAME_CLUSTERMUNITION QUOTE(G_40mm_HEDP)
+
+#define CLASSNAME_LARGEEXPLOSION QUOTE(Sh_155mm_AMOS)
+#define CLASSNAME_BIGEXPLOSION QUOTE(Bo_GBU12_LGB)
+#define CLASSNAME_MEDIUMEXPLOSION QUOTE(Sh_125mm_HE)
+#define CLASSNAME_SMALLEXPLOSION QUOTE(Sh_82mm_AMOS)
+
+#define CLASSNAME_DEFAULTBARREL QUOTE(Land_MetalBarrel_F)
+
+#define CLASSNAME_LOADABLEVEHICLE_TYPE QUOTE(Helicopter_Base_F)
+
+#define CLASSNAME_FINOBJECT QUOTE(Land_Sign_Mines_F)
+
+// INTERNAL VALUES -----------
+
+#define VALUE_PAYLOAD_LARGE QUOTE(large)
+#define VALUE_PAYLOAD_BIG QUOTE(big)
+#define VALUE_PAYLOAD_MEDIUM QUOTE(medium)
+#define VALUE_PAYLOAD_SMALL QUOTE(small)
+
+#define VALUE_ALL_PAYLOADS [VALUE_PAYLOAD_LARGE, VALUE_PAYLOAD_BIG, VALUE_PAYLOAD_MEDIUM, VALUE_PAYLOAD_SMALL]
+
+#define VALUE_FUSE_EXPLOSION QUOTE(explosion)
+#define VALUE_FUSE_CLUSTER QUOTE(cluster)
+
+#define VALUE_ALL_FUSES [VALUE_FUSE_EXPLOSION, VALUE_FUSE_CLUSTER]
+
+// ETC ---------------
+
+#define EXCLUDED_VEHICLE_PREFIXES [QUOTE(ACE)]
+#define VALID_SEATS [QUOTE(driver), QUOTE(Turret), QUOTE(commander)]
+
+// ICONS -------------
+
+#define ICON_ACTION_INSPECTBARREL QUOTE(\a3\ui_f\data\IGUI\Cfg\simpleTasks\types\search_ca.paa)
+#define ICON_ACTION_LOADBARREL QUOTE(\a3\ui_f\data\IGUI\Cfg\simpleTasks\types\getin_ca.paa)
+#define ICON_ACTION_CHECKBARRELS QUOTE(\a3\ui_f\data\IGUI\Cfg\simpleTasks\types\box_ca.paa)
+#define ICON_ACTION_PREPBARREL QUOTE(\a3\ui_f\data\IGUI\Cfg\simpleTasks\types\rearm_ca.paa)
+
+// TEXTURES -----------
+
+#define TEXTURE_BARRELBACKGROUND QUOTE(PATHTOF(UI\barrel_texture.jpg))

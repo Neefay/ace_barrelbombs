@@ -1,0 +1,15 @@
+name = "ACE Barrel Bombs";
+description = "ACE Barrel Bombs - Version 1.0";
+author = "Nife";
+picture = "data\picture.paa"; 
+logo = "data\logo.paa";
+logoOver = "data\logo_over.paa";
+logoSmall = "data\logo_small.paa";
+actionName = "GitHub";
+action = "https://github.com/Neefay";
+tooltip = "ACE Barrel Bombs";
+tooltipOwned = "Barrels are primed and ready to go.";
+dlcColor[] = {1, 0.76, 0, 1};
+overview = "<a href='https://github.com/Neefay'>ACE Barrel Bombs</a> allows the deployment of customized barrel bombs.<br/>* How to use: Place a dispenser, prepare the barrel, load it into a helicopter, and drop. (only allowed for pilots and co-pilots)<br/><br/><t color='#a30909'>NOTE</t>: Barrel bombs are considered illegal under several international treaties.<br/><br/><a href='https://github.com/Neefay'>Author</a> - <a href='http://steamcommunity.com/groups/broma3'>BromA (my unit)</a>";
+hideName = 0;
+hidePicture = 0;
