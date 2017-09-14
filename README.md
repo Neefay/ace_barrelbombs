@@ -48,6 +48,10 @@ Yup. Should work with all Helicopters, I reckon.
 
 You bet. Both for self-hosted servers and Dedicated, works all the same.
 
+> I want my Helicopters to start with the barrels already loaded.
+
+[Use this function.](https://github.com/Neefay/ace_barrelbombs/blob/master/addons/barrelbombs/functions/fnc_addBarrelsToVehicle.sqf)
+
 > Aren't these things super illegal?
 
 [Kind of](http://www.weaponslaw.org/glossary/barrel-bomb). Regardless, be careful whenever deploying over a populated urban environment, as the paramedic/journalist/child-seeking shrapnel module is currently active, *and it never misses*.
@@ -66,8 +70,6 @@ Sorry, not at this time.
 <p align="center">
    <img src="https://puu.sh/xzzEw/0b599e491f.png" alt="How it all works">
 </p>
-
-
 
 ## License
 
