@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/build-1.0.2-blue.svg?style=flat-square" alt="Current version">
   </a>
   <img src="https://img.shields.io/badge/stable-yes-green.svg?style=flat-square" alt="Stable">
+  <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1135461108" target="_blank"><img src="https://puu.sh/xAeW8/25ce6475c5.png" alt="Steam"> Steam Workshop</a>
 </p>
 
 ## Information
