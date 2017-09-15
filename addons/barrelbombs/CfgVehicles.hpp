@@ -7,7 +7,7 @@ class CfgVehicles {
 	class Helicopter_Base_F: Air {
 		class ACE_SelfActions {
 			class GVAR(CheckBarrels) {
-				displayName = QUOTE(Check Barrel Bombs);
+				displayName = CSTRING(Action_CheckBarrelBombs);
 				icon = ICON_ACTION_CHECKBARRELS;
 				showDisabled = 0;
 				priority = 1.1;
@@ -20,7 +20,7 @@ class CfgVehicles {
 	class CargoNet_01_barrels_F;
 	class ACE_BarrelBomb_Dispenser_01: CargoNet_01_barrels_F {
 		
-		displayName = "[ACE] Barrel Bomb Dispenser (Large)";
+		displayName = CSTRING(Object_Dispenser_01);
 		scope = 2;
 		vehicleClass = "Ammo";	
 		GVAR(limitExplosives) = 3000;
@@ -38,7 +38,7 @@ class CfgVehicles {
 				selection = "";
 				
 				class GVAR(TakeMenu) {
-					displayName = QUOTE(Prepare Barrel Bomb);
+					displayName = CSTRING(Action_PrepareBarrelBomb);
 					icon = ICON_ACTION_PREPBARREL;
 					distance = DISTANCE_USE_MIN;
 					showDisabled = 0;

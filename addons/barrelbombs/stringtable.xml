@@ -127,5 +127,14 @@
         <Key ID="STR_ACE_BarrelBombs_String_Fuse">
             <English>Fuse</English>
         </Key>
+        <Key ID="STR_ACE_BarrelBombs_Action_CheckBarrelBombs">
+            <English>Check Barrel Bombs</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Action_PrepareBarrelBomb">
+            <English>Prepare Barrel Bomb</English>
+        </Key>
+        <Key ID="STR_ACE_BarrelBombs_Object_Dispenser_01">
+            <English>[ACE] Barrel Bomb Dispenser (Large)</English>
+        </Key>
     </Package>
 </Project>
