@@ -163,7 +163,7 @@
         </Key>
         <Key ID="STR_ACE_BarrelBombs_String_Payload">
             <English>Payload</English>
-            <Gemran>Nutzlast</German>
+            <German>Nutzlast</German>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_String_Fuse">
             <English>Fuse</English>
