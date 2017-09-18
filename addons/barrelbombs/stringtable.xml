@@ -39,15 +39,15 @@
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_BarrelLoaded">
             <English>Barrel loaded.</English>
-            <German>Fass geladen</German>
+            <German>Fass geladen.</German>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_VehicleFull">
-            <English>This vehicle cannot fit any more barrels,</English>
-            <German>Dieses Fahrzeug kann keine weiteren Fässer laden,</German>
+            <English>This vehicle cannot fit any more barrels.</English>
+            <German>Dieses Fahrzeug kann keine weiteren Fässer laden.</German>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_NoVehicle">
             <English>Could not find a vehicle to load.</English>
-            <German>Kein Fahrzeug zum beladen gefunden</German>
+            <German>Kein Fahrzeug zum beladen gefunden.</German>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Progress_LoadingIntoVehicle">
             <English>Loading barrel into vehicle</English>
@@ -83,7 +83,7 @@
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_InvalidDispenser">
             <English>Invalid dispenser.</English>
-            <German>Unzulässiger Fassbombenvorrat</German>
+            <German>Unzulässiger Fassbombenvorrat.</German>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Progress_MakingBarrelBomb">
             <English>Preparing Barrel Bomb</English>
