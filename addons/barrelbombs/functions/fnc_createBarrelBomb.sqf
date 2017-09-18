@@ -3,9 +3,10 @@
 params ["_dropperObject", "_barrelClass", "_explosiveType", ["_fuseTime", 99], ["_clusterAmount", 0]];
 TRACE_5("CreatedBarrel",_dropperObject,_barrelClass,_explosiveType,_fuseTime,_clusterAmount);
 
-private _delayTime = 0.5;
 private _dropperVelocity = velocity _dropperObject;
 private _dropperObjectPos = getPosATL _dropperObject;
+
+_dropperObjectPos set [2, (_dropperObjectPos select 2) - DISTANCE_CREATEBARREL_LOWER_Z];
 
 private _barrelObject = _barrelClass createVehicle _dropperObjectPos;
 
@@ -33,4 +34,4 @@ _barrelObject setVelocity _dropperVelocity;
         else { [_explosiveType, _endPosition] call FUNC(createExplosion) };
 
     }, [_barrelObject, _explosiveType, _fuseTriggerTime, _fuseTime, _clusterAmount]] call CBA_fnc_waitUntilAndExecute;
-}, [_barrelObject, _explosiveType, _fuseTime, _clusterAmount], _delayTime] call CBA_fnc_waitAndExecute;
+}, [_barrelObject, _explosiveType, _fuseTime, _clusterAmount], DURATION_BARREL_ACTIVATION_MIN] call CBA_fnc_waitAndExecute;

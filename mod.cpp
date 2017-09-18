@@ -1,5 +1,5 @@
 name = "ACE Barrel Bombs";
-description = "ACE Barrel Bombs - Version 1.0.1";
+description = "ACE Barrel Bombs - Version 1.0.5";
 author = "Nife";
 picture = "data\picture.paa"; 
 logo = "data\logo.paa";

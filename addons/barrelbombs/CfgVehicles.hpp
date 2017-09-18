@@ -22,9 +22,11 @@ class CfgVehicles {
 		
 		displayName = CSTRING(Object_Dispenser_01);
 		scope = 2;
-		vehicleClass = "Ammo";	
+		scopeCurator = 2;
+		vehicleClass = "Supplies";	
 		GVAR(limitExplosives) = 3000;
 		GVAR(limitClusters) = 200;
+		GVAR(dispenserBarrel) = CLASSNAME_DEFAULTBARREL;
 		
 		class EventHandlers {					
 			init = QUOTE(_this call FUNC(initializeDispenserMaterials));
@@ -47,8 +49,8 @@ class CfgVehicles {
 					statement = QUOTE([ARR_2(_target,_player)] call FUNC(openBombPrepMenu));
 				};			
 			};
-		};
-	};	
+		};		
+	};
 };
 
 

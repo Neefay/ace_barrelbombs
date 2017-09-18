@@ -3,7 +3,7 @@
 class CfgPatches {
     class ADDON {
 		name = COMPONENT_NAME;
-        units[] = {};
+        units[] = {"ACE_BarrelBomb_Dispenser_01"};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"ace_common", "ace_interaction", "ace_interact_menu", "Extended_EventHandlers"};
