@@ -4,182 +4,227 @@
         <Key ID="STR_ACE_BarrelBombs_Menu_PrepBarrel_currentCluster">
             <English>cluster munitions</English>
             <German>Streumunition</German>
+            <Italian>Munizioni A Grappolo</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Value_Payload_1">
             <English>Maximum</English>
             <German>Maximal</German>
+            <Italian>Massimo</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Value_Payload_2">
             <English>Major</English>
             <German>Massiv</German>
+            <Italian>Massiccio</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Value_Payload_3">
             <English>Moderate</English>
             <German>Moderat</German>
+            <Italian>Medio</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Value_Payload_4">
             <English>Minor</English>
             <German>Schwach</German>
+            <Italian>Minore</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Value_Fuse_1">
             <English>Impact detonation</English>
             <German>Aufschlagzünder</German>
+            <Italian>Detonazione all' Impatto</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Value_Fuse_2">
             <English>Air-burst cluster</English>
             <German>Zeitzünder</German>
+            <Italian>Grappolo a detonazione aerea</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Action_InspectBarrel">
             <English>Inspect</English>
             <German>Untersuchen</German>
+            <Italian>Ispeziona</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Action_LoadForDropping">
             <English>Prime and load</English>
             <German>Scharfmachen und laden</German>
+            <Italian>Prepara e carica l'esplosivo</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_BarrelLoaded">
             <English>Barrel loaded.</English>
             <German>Fass geladen.</German>
+            <Italian>Barile caricato.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_VehicleFull">
             <English>This vehicle cannot fit any more barrels.</English>
             <German>Dieses Fahrzeug kann keine weiteren Fässer laden.</German>
+            <Italian>Questo velivolo non può portare ulteriori barili.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_NoVehicle">
             <English>Could not find a vehicle to load.</English>
             <German>Kein Fahrzeug zum beladen gefunden.</German>
+            <Italian>Non può essere trovato un velivolo su cui caricare.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Progress_LoadingIntoVehicle">
             <English>Loading barrel into vehicle</English>
             <German>Lade Fass ins Fahrzeug</German>
+            <Italian>Caricando is barile sul velivolo</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_LabelReadsAs">
             <English>The label reads</English>
-            <German>Auf der Beschriftung steht</German> 
+            <German>Auf der Beschriftung steht</German>
+            <Italian>Sull'etichetta c'è scritto</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Materials_Plural_Clusters">
             <English>clusters</English>
             <German>Submunition</German>
+            <Italian>A grappoli</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Materials_Long_Clusters">
             <English>cluster munitions</English>
             <German>Streumunition</German>
+            <Italian>Munizioni a grappolo</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Time_Short_Seconds">
             <English>sec.</English>
             <German>s</German>
+            <Italian>sec.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Materials_DrumBarrel">
             <English>Drum Barrel</English>
             <German>Fass</German>
+            <Italian>Barile</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_BombMakingFinished">
             <English>Barrel Bomb completed.</English>
             <German>Fassbombe fertiggestellt.</German>
+            <Italian>Barile-Bomba completato.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_BombMakingCancelled">
             <English>Barrel Bomb cancelled.</English>
             <German>Fassbombe abgebrochen.</German>
+            <Italian>Barile-Bomba annullato.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Hint_InvalidDispenser">
             <English>Invalid dispenser.</English>
             <German>Unzulässiger Fassbombenvorrat.</German>
+            <Italian>Distributore invalido.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Progress_MakingBarrelBomb">
             <English>Preparing Barrel Bomb</English>
             <German>Bereite Fassbombe vor</German>
+            <Italian>Preparando il Barile-Bomba</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Time_Long_Plural_Seconds">
             <English>seconds</English>
             <German>Sekunden</German>
+            <Italian>secondi</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_FuseMethod">
             <English>Fuse method</English>
             <German>Zünderart</German>
+            <Italian>Tipo di Spoletta</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_PayloadStrength">
             <English>Payload strength</English>
             <German>Nutzlaststärke</German>
+            <Italian>Potenza carico</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_FuseTimer">
             <English>Fuse timer</English>
             <German>Zeitzünder</German>
+            <Italian>Tempo fino all'attivazione della Spoletta</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_ClusterAmount">
             <English>Cluster amount</English>
             <German>Anzahl Submunitionen</German>
+            <Italian>Quantità di grappoli</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_PrepareBarrel">
             <English>Prepare barrel</English>
             <German>Fass vorbereiten</German>
+            <Italian>Prepare il barile</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_DispenserMaterials">
             <English>Dispenser materials</English>
             <German>Vorrat</German>
+            <Italian>Materiali nel distributore</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_ExplosivesLeft">
             <English>Explosives left</English>
             <German>übriger Sprengstoff</German>
+            <Italian>Esplosivi rimasti</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_ClustersLeft">
             <English>Clusters left</English>
             <German>übrige Submunitionen</German>
+            <Italian>Grappoli rimasti</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_Confirm">
             <English>CONFIRM</English>
             <German>BESTÄTIGEN</German>
+            <Italian>CONFERMA</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_Confirm_Tooltip">
             <English>Prepare a barrel based on the current settings.</English>
             <German>Bereite eine Fassbombe gemäss der gewählten Einstellungen vor</German>
+            <Italian>Prepara un barile usando la configurazione corrente.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_DispenserExplosives_Tooltip">
             <English>How many explosives are left in this dispenser.</English>
             <German>Wie viel Sprengstoff in diesem Vorrat übrig ist.</German>
+            <Italian>Quanti esplosivi sono rimasti in questo distributore</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_PrepBarrel_DispenserClusters_Tooltip">
             <English>How many cluster rounds are left in this dispenser.</English>
             <German>WIe viele Submunitionen in diesem Vorrat übrig sind.</German>
+            <Italian>Quante munizioni a grappolo sono rimaste in questo distributore.</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_DropBarrel_LoadedBarrels">
             <English>Loaded Barrels</English>
             <German>Gelade Fässer</German>
+            <Italian>Barili Caricati</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_DropBarrel_DropSelected">
             <English>DROP SELECTED</English>
             <German>ABWERFEN</German>
+            <Italian>FAI CADERE IL SELEZIONATO</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Dialog_DropBarrel_CargoLimit">
             <English>Cargo limit</English>
             <German>Maximale Zuladung</German>
+            <Italian>Capacità di Carico</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_String_Warning">
             <English>Warning</English>
             <German>Warnung</German>
+            <Italian>Avvertimento</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_String_HandleWithCaution">
             <English>Handle with caution</English>
             <German>Mit Vorsicht zu behandeln</German>
+            <Italian>Maneggiare con cautela</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_String_Payload">
             <English>Payload</English>
             <German>Nutzlast</German>
+            <Italian>Carico</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_String_Fuse">
             <English>Fuse</English>
             <German>Zünder</German>
+            <Italian>Spoletta</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Action_CheckBarrelBombs">
             <English>Check Barrel Bombs</English>
             <German>Fassbomben überprüfen</German>
+            <Italian>Controlla i Barili-Bomba</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Action_PrepareBarrelBomb">
             <English>Prepare Barrel Bomb</English>
             <German>Fassbombe vorbereiten</German>
+            <Italian>Prepara i Barili-Bomba</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Object_Dispenser_01">
             <English>[ACE] Barrel Bomb Dispenser (Large)</English>
             <German>[ACE] Fassbombenvorrat (Groß)</German>
+            <Italian>[ACE] Distributore Barile-Bomba (Grande)</Italian>
         </Key>
     </Package>
 </Project>
