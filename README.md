@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Neefay/ace_barrelbombs">
-   <img src="https://puu.sh/xzxdp/d40599b662.png" alt="ACE Barrel Bombs">
+   <img src="https://puu.sh/xzxdp/d40599b662.png" alt="NFE Barrel Bombs">
    <br/><br/>
    <img src="https://puu.sh/xzxdk/e56786feb5.png" alt="Title">
   </a>
@@ -17,10 +17,10 @@
 ## Information
 <br/>
 
-**ACE Barrel Bombs** does exactly what it's named after: it adds the ability to drop explosive or cluster charges from, you guessed it, barrels.
+**NFE Barrel Bombs** does exactly what it's named after: it adds the ability to drop explosive or cluster charges from, you guessed it, barrels.
 
 ### How to use:
-1. In the editor, search for and place **[ACE] Barrel Bomb Dispenser (Large)** in your mission.
+1. In the editor, search for and place **Barrel Bomb Dispenser (Large)** in your mission.
 1. ACE Interact with the dispenser, and **Prepare a Barrel Bomb**.
 1. You may now select between the types of fuse (*Air-burst* or *Impact detonation*), and the strength of the payload, or how many cluster munitions will be included in the barrel.
 1. If your dispenser has enough materials remaining, hit **CONFIRM**. As soon as you're done, a new barrel will appear, ready to be loaded.
