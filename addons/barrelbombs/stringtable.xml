@@ -222,9 +222,9 @@
             <Italian>Prepara i Barili-Bomba</Italian>
         </Key>
         <Key ID="STR_ACE_BarrelBombs_Object_Dispenser_01">
-            <English>[ACE] Barrel Bomb Dispenser (Large)</English>
-            <German>[ACE] Fassbombenvorrat (Groß)</German>
-            <Italian>[ACE] Distributore Barile-Bomba (Grande)</Italian>
+            <English>Barrel Bomb Dispenser (Large)</English>
+            <German>Fassbombenvorrat (Groß)</German>
+            <Italian>Distributore Barile-Bomba (Grande)</Italian>
         </Key>
     </Package>
 </Project>
