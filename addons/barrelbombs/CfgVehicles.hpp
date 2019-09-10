@@ -2,10 +2,11 @@
 class CBA_Extended_EventHandlers;
 
 class CfgVehicles {
-	class Air;
+	class AllVehicles;
+	class Air: AllVehicles { class ACE_SelfActions; };
 	
-	class Helicopter_Base_F: Air {
-		class ACE_SelfActions {
+	class Helicopter: Air {
+		class ACE_SelfActions: ACE_SelfActions {
 			class GVAR(CheckBarrels) {
 				displayName = CSTRING(Action_CheckBarrelBombs);
 				icon = ICON_ACTION_CHECKBARRELS;
