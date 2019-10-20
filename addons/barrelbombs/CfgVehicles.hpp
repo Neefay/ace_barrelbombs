@@ -4,7 +4,7 @@ class CBA_Extended_EventHandlers;
 class CfgVehicles {
 	class Air;
 	
-	class Helicopter_Base_F: Air {
+	class Helicopter: Air {
 		class ACE_SelfActions {
 			class GVAR(CheckBarrels) {
 				displayName = CSTRING(Action_CheckBarrelBombs);
